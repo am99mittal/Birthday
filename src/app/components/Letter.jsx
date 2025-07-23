@@ -13,16 +13,21 @@ export default function Letter() {
 
     const letterText = `My Dearest Madam Jii,
 
-On this very special day, I want you to know how incredibly grateful I am to have you in my life. Your birthday isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to this world.
-
-You have this amazing ability to light up any room you enter, to make people smile even on their darkest days, and to spread kindness wherever you go. Your heart is pure gold, and your spirit is absolutely infectious.
-
-Thank you for being the wonderful, amazing, absolutely fantastic person that you are. The world is so much brighter because you're in it.
-
-Happy Birthday, beautiful soul! 🎂✨
-
-With all my love and warmest wishes,
-Forever Yours 💕`
+    Priyuuuu Mittal 😉,
+    On this most special of days, I find myself overwhelmed with love and gratitude just thinking about you. Your birthday isn't just a day on the calendar — it's a reminder of how blessed this world is to have someone like you in it… and how incredibly lucky I am to be a part of your life.
+    
+    You have this rare, magical gift — you make me smile without even trying. Even when the weight of the world is on my shoulders, you're the one who can lift my mood with just a glance… a word… a snap of your fingers.
+    No one else has ever made me feel so seen, so safe, so cherished.
+    
+    I honestly don't know what life would look like without you — the mere thought of being far from you tears me apart. You're my light, my peace, my laughter… my everything. I can't — and don’t want to — imagine this life without you in it.
+    
+    Thank you for being the beautiful soul you are, for loving so effortlessly, and for making each moment feel like a memory worth holding onto forever.
+    
+    Happy Birthday, my love.
+    May your heart always be as full as the joy you bring into mine.
+    
+    With all my love and more,
+    Forever Yours 💕`
 
     useEffect(() => {
         if (showText) {
